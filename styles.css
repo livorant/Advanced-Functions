@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+ordered-list{
+    justify-content: center;
+    align-items: center;
+}
+
+.information{
+    margin:0;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.media{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
